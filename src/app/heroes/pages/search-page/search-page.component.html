@@ -13,9 +13,9 @@
 
     <mat-autocomplete autoActiveFirstOption
       #auto="matAutocomplete"
-      (optionSelected)="onSelectionOption( $event )"
-      >
-      <mat-option *ngFor="let hero of heroes"
+      (optionSelected)="onSelectionOption( $event )">
+      <mat-option
+        *ngFor="let hero of heroes"
         [value]="hero">
         {{ hero.superhero }}
       </mat-option>
@@ -27,4 +27,7 @@
     </mat-autocomplete>
 
   </mat-form-field>
+
+  <!-- {{ heroes | json }} -->
+
 </div>
