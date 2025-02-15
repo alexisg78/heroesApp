@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://i0.wp.com/comicbookdispatch.com/wp-content/uploads/2022/01/batman-cv122_1_in_25_var_shadow_war_part_2.jpg?resize=720%2C1113&ssl=1"
     },
     {
       "id": "dc-superman",
@@ -166,6 +167,15 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
+    },
+    {
+      "id": "91G39ar",
+      "superhero": "Black Widow",
+      "publisher": "DC Comics",
+      "alter_ego": "Natasha Romanova",
+      "first_appearance": " Tales of Suspense #52 (1964)",
+      "characters": "Black Widow",
+      "alt_img": "https://iwt.sfo2.cdn.digitaloceanspaces.com/cbr-covers/41c5505481f6bc2f8b683f242bd00b88_xl.jpg"
     }
   ]
 }
